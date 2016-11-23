@@ -1,7 +1,6 @@
 <?php
 echo "ldkfslkdfndslknfs";
 echo "c'est ma page de contact";
-<<<<<<< HEAD
 
 ?>
 
@@ -17,5 +16,3 @@ echo "c'est ma page de contact";
 
   </body>
 </html>
-=======
->>>>>>> 142a07d12d4a3b015ed6cad8430f78f3e58bbecc
